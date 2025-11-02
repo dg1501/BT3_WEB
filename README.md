@@ -12,5 +12,5 @@
 ## 5. Nginx làm web-server</P>
 ----------------------------------------------------</P>
 **1.CÀI ĐẶT MÔI TRƯỜNG LINUX**</p>
-1.1. Dowload Docker Desktop.</p>
+1.1. enable wsl.</p>
 
