@@ -12,11 +12,11 @@
 ## 5. Nginx làm web-server</P>
 ----------------------------------------------------</P>
 **1.CÀI ĐẶT MÔI TRƯỜNG LINUX**</p>
-1.1. enable wsl.</p>
-a) Trong PowerShell chạy lệnh `wsl --install`.</p>
-<img width="759" height="422" alt="image" src="https://github.com/user-attachments/assets/c1196996-e3ad-48c7-bcfd-1cc618f306ae" /></p>
-1.2. Cài đặt Ubuntu.</p>
-b) Trong PowerShell chạy lệnh `wsl --install -d Ubuntu-22.04`.</p>
+1.1. Cài đặt Docker desktop.</p>
+a) Truy cập Link `https://www.docker.com/`.</p>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f604ace9-7d74-4a1f-b985-f08379e5e0a7" /></p>
+b) Khởi động Docker desktop.</p>
 
-1.3. Khởi chạy Ubuntu.</p>
+**2.CÀI ĐẶT DOCKER CONTAINER**</p>
+
 
