@@ -13,4 +13,8 @@
 ----------------------------------------------------</P>
 **1.CÀI ĐẶT MÔI TRƯỜNG LINUX**</p>
 1.1. enable wsl.</p>
+a) Trong PowerShell chạy lệnh `wsl --install`.</p>
+1.2. Cài đặt Ubuntu.</p>
+b) Trong PowerShell chạy lệnh `wsl --install -d Ubuntu-22.04`.</p>
+1.3. Khởi chạy Ubuntu.</p>
 
