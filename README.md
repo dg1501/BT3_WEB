@@ -45,16 +45,16 @@ a) Truy cập Link `https://www.docker.com/`.</p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f604ace9-7d74-4a1f-b985-f08379e5e0a7" /></p>
 **3.CÀI ĐẶT DOCKER CONTAINER**</p>
 <img width="742" height="516" alt="image" src="https://github.com/user-attachments/assets/41dc76a1-4495-4268-aa4d-8c8de0024ef2" /></p>
-a) MARIADB (3306).</p>
-b) PHPADMIN (8080).</P>
+a) **MARIADB (3306)**.</p>
+b) **PHPADMIN (8080)**.</P>
 <img width="1295" height="815" alt="image" src="https://github.com/user-attachments/assets/17bd64ba-db47-4770-bfba-0e9f70497add" /></p>
-c) nodered/node-red (1880).</p>
+c) **Nodered/node-red (1880)**.</p>
 <img width="1287" height="810" alt="image" src="https://github.com/user-attachments/assets/e4403668-9056-493f-b809-7a85beef2efd" /></p>
-d) influxdb (8086).</p>
+d) **influxdb (8086)**.</p>
 <img width="1285" height="806" alt="image" src="https://github.com/user-attachments/assets/1bb7df96-d0bb-4f6d-8545-6dd1c606d830" /></p>
-e) grafana/grafana (3000).</p>
+e) **grafana/grafana (3000)**.</p>
 <img width="1309" height="874" alt="image" src="https://github.com/user-attachments/assets/adbd748f-9608-4192-9b72-68e3a83ac365" />.</p>
-f) nginx (80,443).</p>
+f) **nginx (80,443)**.</p>
 <img width="1697" height="808" alt="image" src="https://github.com/user-attachments/assets/4b7467b1-f4f1-475d-9b2b-9f8f3f9da989" /></p>
 
 
