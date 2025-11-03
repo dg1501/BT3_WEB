@@ -41,7 +41,7 @@ d) Cài Ubuntu.</p>
 - Nhập usernam + password.</p>
 <img width="1330" height="875" alt="image" src="https://github.com/user-attachments/assets/e1b380e9-e2fb-4f1a-95f7-4b139e23f7c5" /></p>
 
-**2. Cài đặt Docker desktop**.</p>
+**2. CÀI ĐẶT DOCKER DESKTOP**.</p>
 a) Truy cập Link `https://www.docker.com/`.</p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f604ace9-7d74-4a1f-b985-f08379e5e0a7" /></p>
 b) Khởi động Docker desktop.</p>
