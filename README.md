@@ -1,10 +1,10 @@
-# Bài tập 3   : MÔN PHÁT TRIỂN ỨNG DỤNG TRÊN NỀN WEB
-## Giảng viên  : Đỗ Duy Cốp
-## Lớp học phần: 58KTPM
+# BÀI TẬP 3     : MÔN PHÁT TRIỂN ỨNG DỤNG TRÊN NỀN WEB
+## Giảng viên   : Đỗ Duy Cốp
+## Lớp học phần : 58KTPM
 ### Ngày giao   : 2025-10-24 13:50
 ### Hạn nộp     : 2025-11-05 00:00
 ----------------------------------------------------</P>
-# LẬP TRÌNH ỨNG DỤNG WEB trên nền linux.</P>
+# LẬP TRÌNH ỨNG DỤNG WEB TRÊN NỀN LINUX.</P>
 ## 1. Cài đặt môi trường linux
 ## 2. Cài đặt Docker
 ## 3. Sử dụng 1 file docker-compose.yml để cài đặt các docker container
