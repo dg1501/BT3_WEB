@@ -95,6 +95,26 @@ e) Thêm node `http in` phục vụ **frontend**.</p>
 <img width="636" height="858" alt="{85CDC74B-328E-450B-B505-DEFF35085360}" src="https://github.com/user-attachments/assets/abe98b26-91a8-4417-a966-48ce02b2536a" /></p>
 f) Thêm node `http response`.</p>
 <img width="644" height="859" alt="image" src="https://github.com/user-attachments/assets/6bb0667f-0d92-4de8-b818-feb10300f492" /></p>
+4.4. Tổng sơ đồ **NODERED**.</p>
+<img width="1862" height="862" alt="{6F01A35D-5547-41A0-967A-8F97A7DC8BC5}" src="https://github.com/user-attachments/assets/b1b7bf73-8422-4bf5-9b5b-2e3ef2011a20" /></p>
+4.5. Kết quả.</p>
+<img width="822" height="230" alt="{EB628C80-F8DD-4CE6-A4CC-AEF95B6A37BA}" src="https://github.com/user-attachments/assets/c60ee542-2f64-4f74-a7cb-96a46e5835b4" /></p>
+4.6. Tạo bảng **USER**.</p>
+<img width="1581" height="864" alt="{BA7DFFDE-2145-49B5-A8CA-34408BFE85D6}" src="https://github.com/user-attachments/assets/df088306-02d9-4ca1-96a8-0e0d3413d015" /></p>
+4.7. Tạo tài khoản **ADMIN**.</p>
+<img width="1595" height="537" alt="{4B2A20D5-752A-4FAA-AE0A-6222D611A3A8}" src="https://github.com/user-attachments/assets/48f1fe6a-21d4-4780-9240-7219a4206203" /></p>
+4.8. Dowload **XAMPP**.</p>
+a) Truy cập link `https://www.apachefriends.org/download.html`.</p>
+<img width="1852" height="902" alt="{D1359D0D-5DD0-474D-BDAB-E0D11EFE8C54}" src="https://github.com/user-attachments/assets/1fc291b5-93b1-470a-972b-a9c54d700907" /></p>
+- kết quả</p>
+<img width="834" height="728" alt="{F9CA5A4F-06C1-4304-B1E6-D72A728807BA}" src="https://github.com/user-attachments/assets/84f15fce-0090-416f-af4d-102af8ca15e7" /></p>
+b) Tạo file **index.html**.</p>
+<img width="1917" height="1023" alt="{6AFAFB8A-D395-42B1-BDD1-CE8BE4737CBA}" src="https://github.com/user-attachments/assets/4db8b6af-1e46-4ff3-84fa-64252cd9458e" /></p>
+
+
+
+
+
 
 
 
