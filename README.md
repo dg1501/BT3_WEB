@@ -79,7 +79,27 @@ c) Tạo và điền thông tin cho InfluxDB connection node:</p>
 <img width="692" height="847" alt="{05DEB38F-9C13-459C-8520-F52A1C42ADFD}" src="https://github.com/user-attachments/assets/9c5f454d-c95b-4ee1-967a-0c039cd71291" /></p>
 4.3. Tạo flow Node-RED.</p>
 a) Tạo dữ liệu giả lập.</p>
-- Tạo và cấu hình node **inject**.</p>
+--- Tạo và cấu hình node **inject**.</p>
+- Payload: chọn `TimeStamp`.</p>
+<img width="742" height="854" alt="{61FB9A39-15F0-4998-AE97-2A3878AA6961}" src="https://github.com/user-attachments/assets/b380fbb8-e5ab-40df-a5ee-fb8e150af547" /></p>
+- Tick **Repeat** → **Interval**: every 5 seconds.-> Done </p>
+<img width="661" height="757" alt="image" src="https://github.com/user-attachments/assets/b91712f1-6605-46bb-b1e5-f154522ce54b" /></p>
+b) Kéo node **function** → nối với inject.</p>
+- Cấu hình node Function.</p>
+<img width="824" height="856" alt="{68B3122D-08E4-4FF8-8EDC-CE1EEE296E07}" src="https://github.com/user-attachments/assets/fe3eb3b0-3850-49da-a8a7-062220086a65" /></p>
+c) Thêm node Functon -> kết nối với `Generate Sensor Data` -> đặt tên **Insert/Update MariaDB**.</p>
+<img width="815" height="855" alt="image" src="https://github.com/user-attachments/assets/257729ba-10b0-4045-a45e-041cee1ff361" /></p>
+d) Kéo node function khác → nối từ **Generate Sensor Data** -> tên là **Insert InfluxDB**.</p>
+<img width="812" height="855" alt="{541E3EBC-439F-42E5-85CF-1996FD32041C}" src="https://github.com/user-attachments/assets/e314d9f3-0997-4598-a395-3fa4f601bb6f" /></p>
+e) Thêm node `http in` phục vụ **frontend**.</p>
+<img width="636" height="858" alt="{85CDC74B-328E-450B-B505-DEFF35085360}" src="https://github.com/user-attachments/assets/abe98b26-91a8-4417-a966-48ce02b2536a" /></p>
+f) Thêm node `http response`.</p>
+<img width="644" height="859" alt="image" src="https://github.com/user-attachments/assets/6bb0667f-0d92-4de8-b818-feb10300f492" /></p>
+
+
+
+
+
 
 
 
