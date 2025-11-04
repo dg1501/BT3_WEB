@@ -43,7 +43,7 @@ d) Cài Ubuntu.</p>
 **2. CÀI ĐẶT DOCKER DESKTOP**.</p>
 a) Truy cập Link `https://www.docker.com/`.</p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f604ace9-7d74-4a1f-b985-f08379e5e0a7" /></p>
-**3.CÀI ĐẶT DOCKER CONTAINER**</p>
+**3. CÀI ĐẶT DOCKER CONTAINER**</p>
 <img width="742" height="516" alt="image" src="https://github.com/user-attachments/assets/41dc76a1-4495-4268-aa4d-8c8de0024ef2" /></p>
 a) **MARIADB (3306)**.</p>
 b) **PHPADMIN (8080)**.</P>
@@ -56,6 +56,31 @@ e) **grafana/grafana (3000)**.</p>
 <img width="1309" height="874" alt="image" src="https://github.com/user-attachments/assets/adbd748f-9608-4192-9b72-68e3a83ac365" />.</p>
 f) **nginx (80,443)**.</p>
 <img width="1697" height="808" alt="image" src="https://github.com/user-attachments/assets/4b7467b1-f4f1-475d-9b2b-9f8f3f9da989" /></p>
+**4. Lập trình web frontend+backend (Web IOT: Giám sát dữ liệu IOT)**.</p>
+4.1. Tạo cơ sở dữ liệu trong MariaDB.</p>
+a) Tạo Database.</p>
+- Nhấn **New** → đặt tên **iot_db** → **Create**.</p>
+<img width="1567" height="916" alt="image" src="https://github.com/user-attachments/assets/d8dad631-6db9-452d-abe8-713b09777ed3" /></p>
+b) Tạo bảng.</p>
+- Mở Tab **SQL** -> dán code tạo bảng vào khung -> **Perform**.</p>
+<img width="1567" height="923" alt="image" src="https://github.com/user-attachments/assets/20280ca2-6355-43c3-af96-db7b8dad3c92" /></p>
+- Kết quả.</p>
+<img width="1867" height="713" alt="image" src="https://github.com/user-attachments/assets/ccc2f2b4-bd12-4449-ac21-d14f55a1b980" /></p>
+4.2. Cấu hình Node-RED.</p>
+a) Cài thêm các node.</p>
+---Nhấn **Menu** → **Manage palette** → **Install** → tìm và cài:</p>
++ `node-red-node-mysql (kết nối MariaDB)`</p>
++ `node-red-contrib-influxdb (ghi dữ liệu vào InfluxDB)`</p>
+<img width="889" height="862" alt="{D939435A-6614-4D98-BBC5-44C7F5473A73}" src="https://github.com/user-attachments/assets/c4494117-a1cb-4b03-a56e-2127f3380069" /></p>
+<img width="905" height="868" alt="{BA471DF4-CB08-46B2-BDE3-DCF4060F7037}" src="https://github.com/user-attachments/assets/4621e3da-f7c5-4231-9e57-632c829c9cd4" /></p>
+b) Tạo và điền thông tin cho MySQL connection node:</p>
+<img width="659" height="915" alt="{66290410-BAE5-4D9D-85A0-C60EF8A1A4A6}" src="https://github.com/user-attachments/assets/3fa41d9f-641b-43db-83f0-f9cc3588d420" /></p>
+c) Tạo và điền thông tin cho InfluxDB connection node:</p>
+<img width="692" height="847" alt="{05DEB38F-9C13-459C-8520-F52A1C42ADFD}" src="https://github.com/user-attachments/assets/9c5f454d-c95b-4ee1-967a-0c039cd71291" /></p>
+4.3. Tạo flow Node-RED.</p>
+a) Tạo dữ liệu giả lập.</p>
+- Tạo và cấu hình node **inject**.</p>
+
 
 
 
