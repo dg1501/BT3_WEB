@@ -2,7 +2,7 @@
 ## Giảng viên   : Đỗ Duy Cốp
 ## Lớp học phần : 58KTPM
 ### Ngày giao   : 2025-10-24 13:50
-### Hạn nộp     : 2025-11-05 00:00
+### Hạn nộp     : 2025-11-06 23:59
 ----------------------------------------------------</P>
 # LẬP TRÌNH ỨNG DỤNG WEB TRÊN NỀN LINUX.</P>
 ## 1. Cài đặt môi trường linux
