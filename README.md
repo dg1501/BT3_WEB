@@ -48,7 +48,6 @@ c) Kết quả.</p>
 <img width="1133" height="351" alt="image" src="https://github.com/user-attachments/assets/fb879c77-424c-488e-96fc-9846f00ad032" /></p>
 
 **3. DOCKER CONTAINER**</p>
-<img width="742" height="516" alt="image" src="https://github.com/user-attachments/assets/41dc76a1-4495-4268-aa4d-8c8de0024ef2" /></p>
 
 a) **MARIADB (3306)**.</p>
 
