@@ -183,6 +183,8 @@ a) Nodered.</p>
 b) WEB.</p>
 <img width="1717" height="967" alt="image" src="https://github.com/user-attachments/assets/5f361aca-33bb-4c23-a75d-0bcf17854297" /></p>
 
+c) GRAFANA.</p>
+<img width="1827" height="962" alt="image" src="https://github.com/user-attachments/assets/c377aa05-ee5a-431f-894e-dd3507a224fc" /></p>
 
 
 
